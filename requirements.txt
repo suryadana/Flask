@@ -98,7 +98,7 @@ vinetto==0.6a0
 virtualenv==15.0.2
 volatility==2.5
 wapiti==2.3.0
-Werkzeug==0.11.10
+Werkzeug==0.15.3
 wxPython==2.8.12.1
 wxPython-common==2.8.12.1
 yara-python==3.4.0
