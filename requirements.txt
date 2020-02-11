@@ -14,7 +14,7 @@ defer==1.0.6
 dirspec==13.10
 dissy==9
 distorm3==3.3.0
-Django==1.9.7
+Django==1.11.28
 dnspython==1.11.1
 docutils==0.11
 eyeD3==0.6.18
