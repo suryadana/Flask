@@ -25,7 +25,7 @@ httplib2==0.8
 idna==2.1
 impacket==0.9.10
 itsdangerous==0.24
-Jinja2==2.7.2
+Jinja2==2.11.3
 knockpy==3.0
 lxml==3.3.3
 Magic-file-extensions==0.2
