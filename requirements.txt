@@ -27,7 +27,7 @@ impacket==0.9.10
 itsdangerous==0.24
 Jinja2==2.7.2
 knockpy==3.0
-lxml==3.3.3
+lxml==4.9.1
 Magic-file-extensions==0.2
 Mako==0.9.1
 MarkupSafe==0.18
