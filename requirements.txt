@@ -29,7 +29,7 @@ Jinja2==2.7.2
 knockpy==3.0
 lxml==3.3.3
 Magic-file-extensions==0.2
-Mako==0.9.1
+Mako==1.2.2
 MarkupSafe==0.18
 MAT==0.4rc0
 matplotlib==1.3.1
